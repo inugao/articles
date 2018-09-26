@@ -11,4 +11,15 @@ note用のMarkdown形式メモ
 
 noteに関してはまだマークダウン形式で投稿できないので、専用のテンプレートから写し取る形式とする。
 
+<details>
+<summary>サンプル</summary>
+Markdownが使える。  
+```PHP:test
+$test = 'test';
+echo $test;
+```
+便利。  
+</details>
+
+
 以下、テンプレート
